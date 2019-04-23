@@ -1,0 +1,4 @@
+Mircoseconds
+
+SG90_1 = 500-2400us
+SG90_2 = 600-1000us
